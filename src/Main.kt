@@ -14,11 +14,9 @@ fun launchInGlobalScope() {
 }
 
 fun main() {
-    log("main() started")
-    launchInGlobalScope()
-    log("launchInGlobalScope() execute")
-    Thread.sleep(5000L)
-    log("main() terminated")
+    log("main() started") // step1
+    launchInGlobalScope() // step3
+    log("launchInGlobalScope() execute") // step2
+    Thread.sleep(5000L) // wait step4 5 second
+    log("main() terminated") // step4
 }
-
-

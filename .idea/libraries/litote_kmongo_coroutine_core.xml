@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="litote.kmongo.coroutine.core" type="repository">
+    <properties maven-id="org.litote.kmongo:kmongo-coroutine-core:4.7.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/litote/kmongo/kmongo-coroutine-core/4.7.0/kmongo-coroutine-core-4.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/litote/kmongo/kmongo-async-shared/4.7.0/kmongo-async-shared-4.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/litote/kmongo/kmongo-property/4.7.0/kmongo-property-4.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/litote/kmongo/kmongo-shared/4.7.0/kmongo-shared-4.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/litote/kmongo/kmongo-id/4.7.0/kmongo-id-4.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-reflect/1.7.10/kotlin-reflect-1.7.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/litote/kmongo/kmongo-data/4.7.0/kmongo-data-4.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/litote/kreflect/1.0.0/kreflect-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-reactivestreams/4.7.1/mongodb-driver-reactivestreams-4.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/bson/4.7.1/bson-4.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/4.7.1/mongodb-driver-core-4.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/bson-record-codec/4.7.1/bson-record-codec-4.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.22.RELEASE/reactor-core-3.2.22.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.6.4/kotlinx-coroutines-core-1.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.6.4/kotlinx-coroutines-core-jvm-1.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-reactive/1.6.4/kotlinx-coroutines-reactive-1.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.6.21/kotlin-stdlib-jdk8-1.6.21.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.21/kotlin-stdlib-jdk7-1.6.21.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.7.10/kotlin-stdlib-1.7.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.7.10/kotlin-stdlib-common-1.7.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
